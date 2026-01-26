@@ -9,7 +9,6 @@ This lesson documents a real-world industrial / enterprise wireless bridging sce
 
 The goal is to clearly understand where the autonomous AP sits in the architecture and how traffic flows from the field to the corporate network.
 
-All names, IPs, and locations are sanitized.
 
 ---
 
