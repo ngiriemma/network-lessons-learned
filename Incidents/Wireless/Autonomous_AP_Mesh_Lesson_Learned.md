@@ -3,7 +3,7 @@
 ## Context
 This lesson documents a real-world industrial / enterprise wireless bridging scenario involving:
 - Autonomous Access Points (AP)
-- Cisco Wireless LAN Controller (WLC 9800)
+- Cisco Wireless LAN Controller 
 - Mesh networking (RAP / MAP)
 - Industrial devices such as PLCs, sensors, and HMIs
 
